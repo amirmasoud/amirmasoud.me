@@ -19,7 +19,6 @@ I ride a Trek Marlin 5 Gen 2, which I’ve had for almost two years. I really li
 The weather was cold when I first went out around 8 AM, so I had to return home, put on warmer clothes, and then head back.
 
 **Total distance:** ~14 miles  
-**Total duration:** 1 hour and 15 minutes<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+**Total duration:** 1 hour and 15 minutes
 
-<div class="wp-block-embed__wrapper">
-</div></figure>
+{{< youtube id="NKt3CxdlQKg" >}}
