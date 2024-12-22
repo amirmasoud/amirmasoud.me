@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steve Schoger on Amirmasoud</title>
-    <link>https://example.org/tags/steve-schoger/</link>
+    <link>http://localhost:1313/tags/steve-schoger/</link>
     <description>Recent content in Steve Schoger on Amirmasoud</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 15:45:25 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/steve-schoger/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/steve-schoger/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Refactoring UI  by Adam Wathan and Steve Schoger</title>
-      <link>https://example.org/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</link>
+      <link>http://localhost:1313/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</link>
       <pubDate>Fri, 12 Jun 2020 15:45:25 +0000</pubDate>
-      <guid>https://example.org/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</guid>
+      <guid>http://localhost:1313/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</guid>
       <description>&lt;p&gt;An outstanding book by Adam Wathan and Steve Schoger which clearly explains how to go from a ordinary UI to outstanding, modern and accessible one. It would teach you what to see in a UI and what matters while keeping things simple and easy for end-users.&lt;/p&gt;&#xA;&lt;p&gt;This book can be used as a reference while designing a page or component of your web or mobile application and quickly checking and evaluating your design choices as each section is short and clearly explained.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Amirmasoud</title>
-    <link>https://example.org/categories/books/</link>
+    <link>http://localhost:1313/categories/books/</link>
     <description>Recent content in Books on Amirmasoud</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Nov 2024 23:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Into the Uncut Grass by Trevor Noah</title>
-      <link>https://example.org/2024/11/11/into-the-uncut-grass/</link>
+      <link>http://localhost:1313/2024/11/11/into-the-uncut-grass/</link>
       <pubDate>Mon, 11 Nov 2024 23:00:00 +0000</pubDate>
-      <guid>https://example.org/2024/11/11/into-the-uncut-grass/</guid>
+      <guid>http://localhost:1313/2024/11/11/into-the-uncut-grass/</guid>
       <description>&lt;p&gt;A &lt;!-- raw HTML omitted --&gt;book&lt;!-- raw HTML omitted --&gt; written by Christopher Myers and Trevor Noah. You might have heard about him from &lt;em&gt;The Daily Show&lt;/em&gt;. I think he’s doing stand-up comedy now (please don’t fact-check me).&lt;/p&gt;&#xA;&lt;p&gt;It’s a picture book that tells a story about a boy who goes on an adventure—one might say a rebellion—to explore and understand.&lt;/p&gt;&#xA;&lt;p&gt;It’s well-written and well-illustrated. I read it on the day of my birthday at &lt;!-- raw HTML omitted --&gt;Weller Book Works&lt;!-- raw HTML omitted --&gt; in Salt Lake City. I didn’t buy it because I think I can probably buy a used version later for a cheaper price just to have it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unfu*k Yourself: Get Out of Your Head and Into Your Life by Gary John Bishop</title>
-      <link>https://example.org/2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/</link>
+      <link>http://localhost:1313/2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/</link>
       <pubDate>Wed, 22 Jul 2020 11:28:00 +0000</pubDate>
-      <guid>https://example.org/2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/</guid>
+      <guid>http://localhost:1313/2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/</guid>
       <description>&lt;p&gt;The book covers a portion of problems, solutions, mistakes, and some solutions to personal life happenings. It is more on the side of motivational speech rather than giving you a roadmap. Of course, if you are looking for a well-thought solution, this book might not suit your will. It is more of a written YouTube motivational video that showcases quotes from well-known people and tries to hype you up.&lt;/p&gt;&#xA;&lt;p&gt;It gives solutions like you should give up your bad habits, build good habits instead of it, or you need to change your subconscious without any further details on how one should accomplish such goals. Until the last chapter of the book, where the author introduces his website and claims you need a coach to develop such traits in yourself, which leaves you wondering that you were reading a marketing book all along for his website and advertising his personal development programs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How political candidates use Twitter and the impact on votes by Sanne Kruikemeier</title>
-      <link>https://example.org/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</link>
+      <link>http://localhost:1313/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</link>
       <pubDate>Thu, 18 Jun 2020 08:23:20 +0000</pubDate>
-      <guid>https://example.org/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</guid>
+      <guid>http://localhost:1313/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</guid>
       <description>&lt;p&gt;An article by Sanne Kruikemeier from Amsterdam School of Communication Research ASCoR that has been published on Elsevier Journal 2014. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0747563214000302?via%3Dihub&#34;&gt;View Article&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;goal&#34;&gt;&lt;strong&gt;Goal&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The paper aims to find out how much using a social platform; in this case, Twitter would affect a politician preferential votes. Their presence on Twitter includes interacting with their potential voters and sharing their private persona. Further, it investigates the effect of candidates’ personalized communication on the number of preferential votes they receive.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HBR Guide to Managing Up and Across by by Harvard Business School Press</title>
-      <link>https://example.org/2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/</link>
+      <link>http://localhost:1313/2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/</link>
       <pubDate>Fri, 12 Jun 2020 15:52:07 +0000</pubDate>
-      <guid>https://example.org/2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/</guid>
+      <guid>http://localhost:1313/2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/</guid>
       <description>&lt;p&gt;The book is a very fragmented, a shortened version of papers. I have to say the book seems very like a how to be a perfect flattering person in your career. If you really believe you want to spend the rest of your life in a hierarchical organization. You just want to get promotion and earn money, this book can be your hidden gem but comes at the cost of literally giving up yourself to satisfy your boss(es) and colleague; this is far away from having an ego.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Refactoring UI  by Adam Wathan and Steve Schoger</title>
-      <link>https://example.org/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</link>
+      <link>http://localhost:1313/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</link>
       <pubDate>Fri, 12 Jun 2020 15:45:25 +0000</pubDate>
-      <guid>https://example.org/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</guid>
+      <guid>http://localhost:1313/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</guid>
       <description>&lt;p&gt;An outstanding book by Adam Wathan and Steve Schoger which clearly explains how to go from a ordinary UI to outstanding, modern and accessible one. It would teach you what to see in a UI and what matters while keeping things simple and easy for end-users.&lt;/p&gt;&#xA;&lt;p&gt;This book can be used as a reference while designing a page or component of your web or mobile application and quickly checking and evaluating your design choices as each section is short and clearly explained.&lt;/p&gt;</description>
     </item>
   </channel>

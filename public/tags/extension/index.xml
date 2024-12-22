@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extension on Amirmasoud</title>
-    <link>https://example.org/tags/extension/</link>
+    <link>http://localhost:1313/tags/extension/</link>
     <description>Recent content in Extension on Amirmasoud</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2020 11:47:36 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/extension/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/extension/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create VSCode extension from scratch to testing, documentation, and publishing</title>
-      <link>https://example.org/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</link>
+      <link>http://localhost:1313/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</link>
       <pubDate>Fri, 16 Oct 2020 11:47:36 +0000</pubDate>
-      <guid>https://example.org/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</guid>
+      <guid>http://localhost:1313/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</guid>
       <description>&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In this post, We would try to develop and publish a visual studio code extension using VSCode samples, APIs, and TypeScript. The extension we will make is called Oops and is currently available at the &lt;!-- raw HTML omitted --&gt;VSCode Marketplace&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt; if you want to check it out for yourself.&lt;/p&gt;&#xA;&lt;p&gt;This extension will be a simple and straightforward one as the functionalities are limited to these four items:&lt;/p&gt;</description>
     </item>
   </channel>

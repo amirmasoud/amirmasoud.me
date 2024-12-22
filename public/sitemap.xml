@@ -2,130 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-08T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/12/07/arlo-a-hidden-resturant-in-salt-lake-city/</loc>
+    <loc>http://localhost:1313/2024/12/07/arlo-a-hidden-resturant-in-salt-lake-city/</loc>
     <lastmod>2024-12-08T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-12-08T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/food/</loc>
+    <loc>http://localhost:1313/categories/food/</loc>
     <lastmod>2024-12-08T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-08T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/12/02/an-enjoyable-outdoor-cycling-ride-in-liberty-park-salt-lake-city/</loc>
+    <loc>http://localhost:1313/2024/12/02/an-enjoyable-outdoor-cycling-ride-in-liberty-park-salt-lake-city/</loc>
     <lastmod>2024-12-03T00:57:26+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/workouts/</loc>
+    <loc>http://localhost:1313/categories/workouts/</loc>
     <lastmod>2024-12-03T00:57:26+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/11/30/after-thanksgiving-workout/</loc>
+    <loc>http://localhost:1313/2024/11/30/after-thanksgiving-workout/</loc>
     <lastmod>2024-11-30T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/11/28/thanksgiving-dinner-2024/</loc>
+    <loc>http://localhost:1313/2024/11/28/thanksgiving-dinner-2024/</loc>
     <lastmod>2024-11-29T03:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/11/23/stk-a-fancy-steakhouse-in-salt-lake-city/</loc>
+    <loc>http://localhost:1313/2024/11/23/stk-a-fancy-steakhouse-in-salt-lake-city/</loc>
     <lastmod>2024-11-24T03:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/11/16/aker-a-resturant-in-salt-lake-city/</loc>
+    <loc>http://localhost:1313/2024/11/16/aker-a-resturant-in-salt-lake-city/</loc>
     <lastmod>2024-11-17T03:30:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/books/</loc>
+    <loc>http://localhost:1313/categories/books/</loc>
     <lastmod>2024-11-11T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2024/11/11/into-the-uncut-grass/</loc>
+    <loc>http://localhost:1313/2024/11/11/into-the-uncut-grass/</loc>
     <lastmod>2024-11-11T23:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</loc>
+    <loc>http://localhost:1313/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</loc>
     <lastmod>2020-10-16T11:47:36+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/extension/</loc>
+    <loc>http://localhost:1313/tags/extension/</loc>
     <lastmod>2020-10-16T11:47:36+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/learning/</loc>
+    <loc>http://localhost:1313/categories/learning/</loc>
     <lastmod>2020-10-16T11:47:36+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-10-16T11:47:36+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/vscode/</loc>
+    <loc>http://localhost:1313/tags/vscode/</loc>
     <lastmod>2020-10-16T11:47:36+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/gary-john-bishop/</loc>
+    <loc>http://localhost:1313/tags/gary-john-bishop/</loc>
     <lastmod>2020-07-22T11:28:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/</loc>
+    <loc>http://localhost:1313/2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/</loc>
     <lastmod>2020-07-22T11:28:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hci/</loc>
+    <loc>http://localhost:1313/tags/hci/</loc>
     <lastmod>2020-06-18T08:23:20+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</loc>
+    <loc>http://localhost:1313/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</loc>
     <lastmod>2020-06-18T08:23:20+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/social-computing/</loc>
+    <loc>http://localhost:1313/tags/social-computing/</loc>
     <lastmod>2020-06-18T08:23:20+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/06/13/installing-mailcatcher-on-linux/</loc>
+    <loc>http://localhost:1313/2020/06/13/installing-mailcatcher-on-linux/</loc>
     <lastmod>2020-06-13T06:40:06+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/</loc>
+    <loc>http://localhost:1313/2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/</loc>
     <lastmod>2020-06-12T15:52:07+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/managing/</loc>
+    <loc>http://localhost:1313/tags/managing/</loc>
     <lastmod>2020-06-12T15:52:07+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/adam-wathan/</loc>
+    <loc>http://localhost:1313/tags/adam-wathan/</loc>
     <lastmod>2020-06-12T15:45:25+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</loc>
+    <loc>http://localhost:1313/2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/</loc>
     <lastmod>2020-06-12T15:45:25+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/steve-schoger/</loc>
+    <loc>http://localhost:1313/tags/steve-schoger/</loc>
     <lastmod>2020-06-12T15:45:25+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/api/</loc>
+    <loc>http://localhost:1313/tags/api/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/06/12/consume-and-expose-api-laravel-possible-solutions/</loc>
+    <loc>http://localhost:1313/2020/06/12/consume-and-expose-api-laravel-possible-solutions/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/curl/</loc>
+    <loc>http://localhost:1313/tags/curl/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/graphql/</loc>
+    <loc>http://localhost:1313/tags/graphql/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/guzzle/</loc>
+    <loc>http://localhost:1313/tags/guzzle/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/hasura/</loc>
+    <loc>http://localhost:1313/tags/hasura/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/laravel/</loc>
+    <loc>http://localhost:1313/tags/laravel/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/postman/</loc>
+    <loc>http://localhost:1313/tags/postman/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/zttp/</loc>
+    <loc>http://localhost:1313/tags/zttp/</loc>
     <lastmod>2020-06-12T15:41:17+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2020/06/04/a-colorful-svg-spinner-vue-js-component/</loc>
+    <loc>http://localhost:1313/2020/06/04/a-colorful-svg-spinner-vue-js-component/</loc>
     <lastmod>2020-06-04T09:18:45+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/devops/</loc>
+    <loc>http://localhost:1313/categories/devops/</loc>
     <lastmod>2019-06-17T19:36:23+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2019/06/17/install-mailparse-extension-on-php-7-0-apache-vagrant-ubuntu/</loc>
+    <loc>http://localhost:1313/2019/06/17/install-mailparse-extension-on-php-7-0-apache-vagrant-ubuntu/</loc>
     <lastmod>2019-06-17T19:36:23+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/2019/05/25/certbot-cloudflare/</loc>
+    <loc>http://localhost:1313/2019/05/25/certbot-cloudflare/</loc>
     <lastmod>2019-05-25T08:09:44+00:00</lastmod>
   </url>
 </urlset>

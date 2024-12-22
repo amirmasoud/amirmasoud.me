@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HCI on Amirmasoud</title>
-    <link>https://example.org/tags/hci/</link>
+    <link>http://localhost:1313/tags/hci/</link>
     <description>Recent content in HCI on Amirmasoud</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Jun 2020 08:23:20 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How political candidates use Twitter and the impact on votes by Sanne Kruikemeier</title>
-      <link>https://example.org/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</link>
+      <link>http://localhost:1313/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</link>
       <pubDate>Thu, 18 Jun 2020 08:23:20 +0000</pubDate>
-      <guid>https://example.org/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</guid>
+      <guid>http://localhost:1313/2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/</guid>
       <description>&lt;p&gt;An article by Sanne Kruikemeier from Amsterdam School of Communication Research ASCoR that has been published on Elsevier Journal 2014. &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0747563214000302?via%3Dihub&#34;&gt;View Article&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;goal&#34;&gt;&lt;strong&gt;Goal&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The paper aims to find out how much using a social platform; in this case, Twitter would affect a politician preferential votes. Their presence on Twitter includes interacting with their potential voters and sharing their private persona. Further, it investigates the effect of candidates’ personalized communication on the number of preferential votes they receive.&lt;/p&gt;</description>
     </item>
   </channel>

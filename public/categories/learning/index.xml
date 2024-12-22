@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on Amirmasoud</title>
-    <link>https://example.org/categories/learning/</link>
+    <link>http://localhost:1313/categories/learning/</link>
     <description>Recent content in Learning on Amirmasoud</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2020 11:47:36 +0000</lastBuildDate>
-    <atom:link href="https://example.org/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create VSCode extension from scratch to testing, documentation, and publishing</title>
-      <link>https://example.org/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</link>
+      <link>http://localhost:1313/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</link>
       <pubDate>Fri, 16 Oct 2020 11:47:36 +0000</pubDate>
-      <guid>https://example.org/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</guid>
+      <guid>http://localhost:1313/2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/</guid>
       <description>&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In this post, We would try to develop and publish a visual studio code extension using VSCode samples, APIs, and TypeScript. The extension we will make is called Oops and is currently available at the &lt;!-- raw HTML omitted --&gt;VSCode Marketplace&lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt; if you want to check it out for yourself.&lt;/p&gt;&#xA;&lt;p&gt;This extension will be a simple and straightforward one as the functionalities are limited to these four items:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Installing Mailcatcher on Linux</title>
-      <link>https://example.org/2020/06/13/installing-mailcatcher-on-linux/</link>
+      <link>http://localhost:1313/2020/06/13/installing-mailcatcher-on-linux/</link>
       <pubDate>Sat, 13 Jun 2020 06:40:06 +0000</pubDate>
-      <guid>https://example.org/2020/06/13/installing-mailcatcher-on-linux/</guid>
+      <guid>http://localhost:1313/2020/06/13/installing-mailcatcher-on-linux/</guid>
       <description>&lt;ol&gt;&#xA;&lt;li&gt;Install essential packages:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Sources: &lt;a href=&#34;https://github.com/sj26/mailcatcher/issues/144#issuecomment-152839748&#34;&gt;&lt;em&gt;https://github.com/sj26/mailcatcher/issues/144#issuecomment-152839748&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://github.com/sj26/mailcatcher/issues/144#issuecomment-48008579&#34;&gt;&lt;em&gt;https://github.com/sj26/mailcatcher/issues/144#issuecomment-48008579&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Install Mailcatcher&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Consume and Expose API – Laravel possible solutions</title>
-      <link>https://example.org/2020/06/12/consume-and-expose-api-laravel-possible-solutions/</link>
+      <link>http://localhost:1313/2020/06/12/consume-and-expose-api-laravel-possible-solutions/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/2020/06/12/consume-and-expose-api-laravel-possible-solutions/</guid>
+      <guid>http://localhost:1313/2020/06/12/consume-and-expose-api-laravel-possible-solutions/</guid>
       <description>&lt;h2 class=&#34;wp-block-heading&#34; id=&#34;how-to-consume-apis-inside-laravel&#34;&gt;How to consume APIs inside Laravel?&lt;/h2&gt;&#xA;&lt;p&gt;If you want to fetch, save, crawl, or fire a one-time request to a remote server that exposes API, there are a variety of options for Laravel. An example use-case would be updating the IMDB rating for a batch of movies and series for your film listing web application.&lt;/p&gt;&#xA;&lt;p&gt;The popular ones are:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;em&gt;Things to keep in mind…&lt;/em&gt;&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;Heads Up!&lt;/strong&gt; if the API you are going to consume in your application is well-known and complex, there is a high chance that someone else has already developed a library to just work with that API, like this &lt;!-- raw HTML omitted --&gt;Laravel package&lt;!-- raw HTML omitted --&gt; by &lt;!-- raw HTML omitted --&gt;Mustapha Alaouy&lt;!-- raw HTML omitted --&gt; that specifically calls YouTube API.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Colorful SVG Spinner Vue.js Component</title>
-      <link>https://example.org/2020/06/04/a-colorful-svg-spinner-vue-js-component/</link>
+      <link>http://localhost:1313/2020/06/04/a-colorful-svg-spinner-vue-js-component/</link>
       <pubDate>Thu, 04 Jun 2020 09:18:45 +0000</pubDate>
-      <guid>https://example.org/2020/06/04/a-colorful-svg-spinner-vue-js-component/</guid>
+      <guid>http://localhost:1313/2020/06/04/a-colorful-svg-spinner-vue-js-component/</guid>
       <description>&lt;p&gt;I just created a simple Vue.js spinner using SVG and CSS animation to iterate along with the different colors.&lt;/p&gt;&#xA;&lt;p&gt;The default spinner comes from &lt;!-- raw HTML omitted --&gt;Glenn McComb&lt;!-- raw HTML omitted --&gt; post, where he created a spinning SVG circle using CSS animation. I have slightly adjusted it to put in a Vue.js template.&lt;/p&gt;&#xA;&lt;p&gt;The HTML part is straight forward; we have a circle in 100 by 100 view box, centered at 50 with a radius of 45.&lt;/p&gt;</description>
     </item>
   </channel>

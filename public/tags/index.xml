@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Amirmasoud</title>
-    <link>https://example.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Amirmasoud</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Oct 2020 11:47:36 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extension</title>
-      <link>https://example.org/tags/extension/</link>
+      <link>http://localhost:1313/tags/extension/</link>
       <pubDate>Fri, 16 Oct 2020 11:47:36 +0000</pubDate>
-      <guid>https://example.org/tags/extension/</guid>
+      <guid>http://localhost:1313/tags/extension/</guid>
       <description></description>
     </item>
     <item>
       <title>Vscode</title>
-      <link>https://example.org/tags/vscode/</link>
+      <link>http://localhost:1313/tags/vscode/</link>
       <pubDate>Fri, 16 Oct 2020 11:47:36 +0000</pubDate>
-      <guid>https://example.org/tags/vscode/</guid>
+      <guid>http://localhost:1313/tags/vscode/</guid>
       <description></description>
     </item>
     <item>
       <title>Gary John Bishop</title>
-      <link>https://example.org/tags/gary-john-bishop/</link>
+      <link>http://localhost:1313/tags/gary-john-bishop/</link>
       <pubDate>Wed, 22 Jul 2020 11:28:00 +0000</pubDate>
-      <guid>https://example.org/tags/gary-john-bishop/</guid>
+      <guid>http://localhost:1313/tags/gary-john-bishop/</guid>
       <description></description>
     </item>
     <item>
       <title>HCI</title>
-      <link>https://example.org/tags/hci/</link>
+      <link>http://localhost:1313/tags/hci/</link>
       <pubDate>Thu, 18 Jun 2020 08:23:20 +0000</pubDate>
-      <guid>https://example.org/tags/hci/</guid>
+      <guid>http://localhost:1313/tags/hci/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Computing</title>
-      <link>https://example.org/tags/social-computing/</link>
+      <link>http://localhost:1313/tags/social-computing/</link>
       <pubDate>Thu, 18 Jun 2020 08:23:20 +0000</pubDate>
-      <guid>https://example.org/tags/social-computing/</guid>
+      <guid>http://localhost:1313/tags/social-computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Managing</title>
-      <link>https://example.org/tags/managing/</link>
+      <link>http://localhost:1313/tags/managing/</link>
       <pubDate>Fri, 12 Jun 2020 15:52:07 +0000</pubDate>
-      <guid>https://example.org/tags/managing/</guid>
+      <guid>http://localhost:1313/tags/managing/</guid>
       <description></description>
     </item>
     <item>
       <title>Adam Wathan</title>
-      <link>https://example.org/tags/adam-wathan/</link>
+      <link>http://localhost:1313/tags/adam-wathan/</link>
       <pubDate>Fri, 12 Jun 2020 15:45:25 +0000</pubDate>
-      <guid>https://example.org/tags/adam-wathan/</guid>
+      <guid>http://localhost:1313/tags/adam-wathan/</guid>
       <description></description>
     </item>
     <item>
       <title>Steve Schoger</title>
-      <link>https://example.org/tags/steve-schoger/</link>
+      <link>http://localhost:1313/tags/steve-schoger/</link>
       <pubDate>Fri, 12 Jun 2020 15:45:25 +0000</pubDate>
-      <guid>https://example.org/tags/steve-schoger/</guid>
+      <guid>http://localhost:1313/tags/steve-schoger/</guid>
       <description></description>
     </item>
     <item>
       <title>Api</title>
-      <link>https://example.org/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
     <item>
       <title>Curl</title>
-      <link>https://example.org/tags/curl/</link>
+      <link>http://localhost:1313/tags/curl/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/curl/</guid>
+      <guid>http://localhost:1313/tags/curl/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphql</title>
-      <link>https://example.org/tags/graphql/</link>
+      <link>http://localhost:1313/tags/graphql/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/graphql/</guid>
+      <guid>http://localhost:1313/tags/graphql/</guid>
       <description></description>
     </item>
     <item>
       <title>Guzzle</title>
-      <link>https://example.org/tags/guzzle/</link>
+      <link>http://localhost:1313/tags/guzzle/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/guzzle/</guid>
+      <guid>http://localhost:1313/tags/guzzle/</guid>
       <description></description>
     </item>
     <item>
       <title>Hasura</title>
-      <link>https://example.org/tags/hasura/</link>
+      <link>http://localhost:1313/tags/hasura/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/hasura/</guid>
+      <guid>http://localhost:1313/tags/hasura/</guid>
       <description></description>
     </item>
     <item>
       <title>Laravel</title>
-      <link>https://example.org/tags/laravel/</link>
+      <link>http://localhost:1313/tags/laravel/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/laravel/</guid>
+      <guid>http://localhost:1313/tags/laravel/</guid>
       <description></description>
     </item>
     <item>
       <title>Postman</title>
-      <link>https://example.org/tags/postman/</link>
+      <link>http://localhost:1313/tags/postman/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/postman/</guid>
+      <guid>http://localhost:1313/tags/postman/</guid>
       <description></description>
     </item>
     <item>
       <title>Zttp</title>
-      <link>https://example.org/tags/zttp/</link>
+      <link>http://localhost:1313/tags/zttp/</link>
       <pubDate>Fri, 12 Jun 2020 15:41:17 +0000</pubDate>
-      <guid>https://example.org/tags/zttp/</guid>
+      <guid>http://localhost:1313/tags/zttp/</guid>
       <description></description>
     </item>
   </channel>
