@@ -4,6 +4,7 @@ author: Amirmasoud
 type: post
 date: 2024-11-24T03:30:00+00:00
 url: /2024/11/23/stk-a-fancy-steakhouse-in-salt-lake-city/
+featured_image: /2024/12/IMG_0200.jpeg
 categories:
   - Food
 

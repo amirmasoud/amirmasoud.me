@@ -4,6 +4,7 @@ author: Amirmasoud
 type: post
 date: 2024-12-08T03:00:00+00:00
 url: /2024/12/07/arlo-a-hidden-resturant-in-salt-lake-city/
+featured_image: /2024/12/IMG_0427.jpeg
 categories:
   - Food
 
@@ -22,13 +23,13 @@ To be honest, as a non-native English speaker, I really enjoyed their food and d
 
 I also ordered &#8216;Some Soup,&#8217; and it was delicious. My drink came first, though, and it was strong, no hesitation in adding Tequila there at all!
 
-[![Some Soup](/2024/12/IMG_0421.jpeg)](/2024/12/IMG_0421.jpeg)
+[![Drink](/2024/12/IMG_0421.jpeg)](/2024/12/IMG_0421.jpeg)
 [![Some Soup](/2024/12/IMG_0425.jpeg)](/2024/12/IMG_0425.jpeg)
 *Some soup*
 
 Just a few short minutes after I finished my soup, my fish arrived. It was beautifully wrapped and came with a delicious, good-looking vegetable side. The fish was incredibly soft, and I didn’t need to struggle to separate the meat from the skin. It was really something special.
 
-[![Some Soup](/2024/12/IMG_0427.jpeg)](/2024/12/IMG_0427.jpeg)
+[![Fish](/2024/12/IMG_0427.jpeg)](/2024/12/IMG_0427.jpeg)
 *Fish*
 
 I had a cup of coffee after finishing my dinner. I was there for less than an hour, but I really enjoyed my time, food, and drink. The server at my table was fantastic, she even adjusted my total because I ordered my coffee after she had already brought me the check. (My bad!)

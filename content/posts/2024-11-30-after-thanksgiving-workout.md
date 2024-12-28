@@ -4,6 +4,7 @@ author: Amirmasoud
 type: post
 date: 2024-11-30T17:00:00+00:00
 url: /2024/11/30/after-thanksgiving-workout/
+featured_image: /2024/12/IMG_0294.jpeg
 categories:
   - Workouts
 

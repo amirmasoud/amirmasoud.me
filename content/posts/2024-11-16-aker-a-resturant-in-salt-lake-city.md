@@ -4,8 +4,10 @@ author: Amirmasoud
 type: post
 date: 2024-11-17T03:30:00+00:00
 url: /2024/11/16/aker-a-resturant-in-salt-lake-city/
+featured_image: /2024/11/IMG_0149.jpeg
 categories:
   - Food
+summary: I went there on Saturday night, November 16th, 2024, around 8:30 PM. I already had a table reserved for myself. I was warmly welcomed, didn’t need to wait, and was seated immediately.
 
 ---
 I went there on Saturday night, November 16th, 2024, around 8:30 PM. I already had a table reserved for myself. I was warmly welcomed, didn’t need to wait, and was seated immediately.

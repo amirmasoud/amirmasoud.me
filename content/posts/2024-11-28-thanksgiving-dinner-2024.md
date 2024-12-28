@@ -4,6 +4,7 @@ author: Amirmasoud
 type: post
 date: 2024-11-29T03:30:00+00:00
 url: /2024/11/28/thanksgiving-dinner-2024/
+featured_image: /2024/11/IMG_0277.jpeg
 categories:
   - Food
 

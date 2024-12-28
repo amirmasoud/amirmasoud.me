@@ -4,6 +4,7 @@ author: Amirmasoud
 type: post
 date: 2024-11-11T23:00:00+00:00
 url: /2024/11/11/into-the-uncut-grass/
+featured_image: '/books/Into the Uncut Grass.jpg'
 categories:
   - Books
 
