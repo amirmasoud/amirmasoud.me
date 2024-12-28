@@ -1,6 +1,6 @@
 .DS_Store
 
-/public/
+/public
 /resources/_gen/
 
 hugo.exe
