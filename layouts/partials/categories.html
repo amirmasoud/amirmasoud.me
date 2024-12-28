@@ -1,0 +1,9 @@
+<ul class="pa0">
+    {{ range .GetTerms "categories" }}
+     <li class="list di">
+       <a href="{{ .RelPermalink }}" class="link f5 grow no-underline dib black">
+         <i>#{{- .LinkTitle -}}</i>
+       </a>
+     </li>
+    {{ end }}
+  </ul>
