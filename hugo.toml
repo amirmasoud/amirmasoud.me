@@ -1,7 +1,45 @@
-baseURL = 'https://example.org/'
+title = "Amirmasoud"
+baseURL = "https://amirmasoud.me"
 languageCode = 'en-us'
-title = 'Amirmasoud'
 theme = 'ananke'
+enableRobotsTXT = true
+
+[services.googleAnalytics]
+id = 'G-CJPMK1Y19P'
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+featured_image_class = "contain bg-top bg-black"
+
+[params.ananke.social.share]
+networks = [
+  "email"
+]
+
+[params.ananke.social.follow]
+new_window_icon = true
+networks = [
+  "linkedin",
+  "github",
+  "instagram",
+  "youtube"
+]
+
+[params.ananke.social.linkedin]
+username = "amirmasoud-sheidayi"
+
+[params.ananke.social.github]
+username = "amirmasoud"
+
+[params.ananke.social.instagram]
+username = "amirmasoudsh32"
+
+[params.ananke.social.youtube]
+username = "Amirmasoud32"
 
 [module]
   [[module.imports]]
