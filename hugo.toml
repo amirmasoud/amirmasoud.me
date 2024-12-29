@@ -14,7 +14,7 @@ filename = "sitemap.xml"
 
 [params]
 featured_image_class = "contain bg-top bg-black"
-recent_posts_number = 7
+recent_posts_number = 10
 recent_copy = " "
 
 [params.ananke.social.share]
