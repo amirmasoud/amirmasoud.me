@@ -3,7 +3,7 @@ title: Old fashioned Whiskey Cocktail Honey Variation
 author: Amirmasoud
 type: post
 date: 2024-12-29T22:00:00+07:00
-url: /2024/12/29/city-creek-tea/
+url: /2024/12/29/old-fashioned-whiskey-cocktail-honey-variation/
 categories:
   - Story
 featured_image: /2024/12/IMG_0605.jpeg
