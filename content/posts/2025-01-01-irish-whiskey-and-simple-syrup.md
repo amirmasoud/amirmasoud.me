@@ -27,3 +27,8 @@ Ingredients:
 Happy New Year.
 
 {{< youtube id=dGlSoHx_pcw >}}
+
+---
+
+[![Irish Whiskey and Simple Syrup 2nd](/2025/01/IMG_0627.jpeg)](/2025/01/IMG_0627.jpeg)
+*Irish Whiskey and Simple Syrup 2nd*
