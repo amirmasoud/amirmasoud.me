@@ -27,7 +27,6 @@ new_window_icon = true
 networks = [
   "linkedin",
   "github",
-  "instagram",
   "youtube"
 ]
 
@@ -36,9 +35,6 @@ username = "amirmasoud-sheidayi"
 
 [params.ananke.social.github]
 username = "amirmasoud"
-
-[params.ananke.social.instagram]
-username = "amirmasoudsh32"
 
 [params.ananke.social.youtube]
 username = "Amirmasoud32"
