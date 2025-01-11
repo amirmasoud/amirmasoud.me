@@ -4,9 +4,6 @@ languageCode = 'en-us'
 theme = 'ananke'
 enableRobotsTXT = true
 
-[services.googleAnalytics]
-id = 'G-CJPMK1Y19P'
-
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
