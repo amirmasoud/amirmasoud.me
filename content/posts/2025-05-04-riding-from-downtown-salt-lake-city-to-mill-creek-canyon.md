@@ -10,7 +10,7 @@ featured_image: /2025/05/mill-creek-canyon.jpg
 summary: A fun short ride
 ---
 
-{{< youtube id="p5vhKaBShVc " >}}
+{{< youtube id="p5vhKaBShVc" >}}
 
 Bike: Honda CB500X
 
