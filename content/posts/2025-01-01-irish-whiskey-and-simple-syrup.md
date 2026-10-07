@@ -2,7 +2,7 @@
 title: Irish Whiskey and Simple Syrup
 author: Amirmasoud
 type: post
-date: 2025-01-01T00:00:00+07:00
+date: 2025-01-01T00:00:00-07:00
 url: /2025/01/01/irish-whiskey-and-simple-syrup/
 categories:
   - Story

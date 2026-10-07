@@ -2,7 +2,7 @@
 title: First Steak I ever Cooked!
 author: Amirmasoud
 type: post
-date: 2025-07-12T20:00:00+07:00
+date: 2025-07-12T20:00:00-06:00
 url: /2025/07/20/first-steak
 categories:
   - Story

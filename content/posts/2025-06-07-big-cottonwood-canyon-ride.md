@@ -2,7 +2,7 @@
 title: Salt Lake to Park City via Big Cottonwood Canyon
 author: Amirmasoud
 type: post
-date: 2025-06-07T08:00:00+07:00
+date: 2025-06-07T08:00:00-06:00
 url: /2025/06/07/big-cottonwood-canyon-ride
 categories:
   - Video

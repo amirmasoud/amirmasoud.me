@@ -2,7 +2,7 @@
 title: Manoli's / A Greek Restaurant in Salt Lake City
 author: Amirmasoud
 type: post
-date: 2024-12-14T20:30:00+07:00
+date: 2024-12-14T20:30:00-07:00
 url: /2024/12/14/manolis-a-greek-restaurant-in-salt-lake-city/
 featured_image: /2024/12/IMG_0488.jpeg
 categories:

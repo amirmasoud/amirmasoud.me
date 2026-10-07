@@ -2,7 +2,7 @@
 title: Aker / A resturant in Salt Lake City
 author: Amirmasoud
 type: post
-date: 2024-11-17T03:30:00+00:00
+date: 2024-11-16T20:30:00-07:00
 url: /2024/11/16/aker-a-resturant-in-salt-lake-city/
 featured_image: /2024/11/IMG_0149.jpeg
 categories:

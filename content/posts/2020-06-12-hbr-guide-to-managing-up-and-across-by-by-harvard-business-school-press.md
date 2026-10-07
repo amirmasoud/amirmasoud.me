@@ -2,7 +2,7 @@
 title: HBR Guide to Managing Up and Across by by Harvard Business School Press
 author: Amirmasoud
 type: post
-date: 2020-06-12T15:52:07+00:00
+date: 2020-06-12T09:52:07-06:00
 url: /2020/06/12/hbr-guide-to-managing-up-and-across-by-by-harvard-business-school-press/
 featured_image: /wp-content/uploads/2020/06/16306428.jpg
 categories:

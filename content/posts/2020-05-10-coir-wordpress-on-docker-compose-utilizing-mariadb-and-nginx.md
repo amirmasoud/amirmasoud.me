@@ -2,7 +2,7 @@
 title: Coir – WordPress on docker-compose utilizing MariaDB and NGINX
 author: Amirmasoud
 type: post
-date: 2020-05-10T06:40:10+00:00
+date: 2020-05-10T00:40:10-06:00
 draft: true
 url: /?p=1272
 categories:

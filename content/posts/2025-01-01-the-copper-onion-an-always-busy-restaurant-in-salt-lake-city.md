@@ -2,7 +2,7 @@
 title: The Copper Onion / An Always Busy Resaurant in Salt Lake City
 author: Amirmasoud
 type: post
-date: 2025-01-01T13:30:00+07:00
+date: 2025-01-01T13:30:00-07:00
 url: /2025/01/01/the-copper-onion-an-always-busy-restaurant-in-salt-lake-city/
 featured_image: /2025/01/IMG_0632.jpeg
 categories:

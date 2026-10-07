@@ -2,7 +2,7 @@
 title: Thanksgiving Dinner 2024
 author: Amirmasoud
 type: post
-date: 2024-11-29T03:30:00+00:00
+date: 2024-11-28T20:30:00-07:00
 url: /2024/11/28/thanksgiving-dinner-2024/
 featured_image: /2024/11/IMG_0277.jpeg
 categories:

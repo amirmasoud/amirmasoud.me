@@ -2,7 +2,7 @@
 title: Into the Uncut Grass by Trevor Noah
 author: Amirmasoud
 type: post
-date: 2024-11-11T23:00:00+00:00
+date: 2024-11-11T16:00:00-07:00
 url: /2024/11/11/into-the-uncut-grass/
 featured_image: '/books/Into the Uncut Grass.jpg'
 categories:

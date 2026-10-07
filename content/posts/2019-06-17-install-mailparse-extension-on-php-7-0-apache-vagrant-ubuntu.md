@@ -2,7 +2,7 @@
 title: Install Mailparse extension on PHP 7.0 + Apache + Vagrant (Ubuntu)
 author: Amirmasoud
 type: post
-date: 2019-06-17T19:36:23+00:00
+date: 2019-06-17T13:36:23-06:00
 url: /2019/06/17/install-mailparse-extension-on-php-7-0-apache-vagrant-ubuntu/
 categories:
   - DevOps

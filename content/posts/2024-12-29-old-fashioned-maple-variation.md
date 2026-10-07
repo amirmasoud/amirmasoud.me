@@ -2,7 +2,7 @@
 title: Old fashioned Whiskey Cocktail Maple Variation
 author: Amirmasoud
 type: post
-date: 2024-12-29T22:00:00+07:00
+date: 2024-12-29T22:00:00-07:00
 url: /2024/12/29/old-fashioned-whiskey-cocktail-maple-variation/
 categories:
   - Story

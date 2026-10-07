@@ -2,7 +2,7 @@
 title: Zaferan Café - A Persian Resturant in Salt Lake City
 author: Amirmasoud
 type: post
-date: 2025-03-02T12:00:00+07:00
+date: 2025-03-02T12:00:00-07:00
 url: /2025/03/02/zaferan-resturant-a-persian-restaurant/
 categories:
   - Story

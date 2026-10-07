@@ -2,7 +2,7 @@
 title: 'Refactoring UI  by Adam Wathan and Steve Schoger'
 author: Amirmasoud
 type: post
-date: 2020-06-12T15:45:25+00:00
+date: 2020-06-12T09:45:25-06:00
 url: /2020/06/12/refactoring-ui-by-adam-wathan-and-steve-schoger/
 featured_image: /wp-content/uploads/2020/06/43190966._SX318_.jpg
 categories:

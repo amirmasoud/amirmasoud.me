@@ -2,7 +2,7 @@
 title: Wine Tasting Class!
 author: Amirmasoud
 type: post
-date: 2025-02-10T19:00:00+07:00
+date: 2025-02-10T19:00:00-07:00
 url: /2025/02/08/wine-tasting-class/
 categories:
   - Story

@@ -2,7 +2,7 @@
 title: Consume and Expose API – Laravel possible solutions
 author: Amirmasoud
 type: post
-date: 2020-06-12T15:41:17+00:00
+date: 2020-06-12T09:41:17-06:00
 url: /2020/06/12/consume-and-expose-api-laravel-possible-solutions/
 featured_image: /wp-content/uploads/2020/06/pankaj-patel-fvMeP4ml4bU-unsplash.jpg
 categories:

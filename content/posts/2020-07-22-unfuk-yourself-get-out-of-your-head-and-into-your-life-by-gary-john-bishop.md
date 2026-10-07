@@ -2,7 +2,7 @@
 title: 'Unfu*k Yourself: Get Out of Your Head and Into Your Life by Gary John Bishop'
 author: Amirmasoud
 type: post
-date: 2020-07-22T11:28:00+00:00
+date: 2020-07-22T05:28:00-06:00
 url: /2020/07/22/unfuk-yourself-get-out-of-your-head-and-into-your-life-by-gary-john-bishop/
 featured_image: /wp-content/uploads/2020/07/32738672._SY475_.jpg
 categories:

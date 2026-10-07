@@ -2,7 +2,7 @@
 title: 'Vagrant Error on Windows: unknown encoding name – CP720'
 author: Amirmasoud
 type: post
-date: 2019-08-19T03:52:20+00:00
+date: 2019-08-18T21:52:20-06:00
 draft: true
 url: /?p=117
 categories:

@@ -2,7 +2,7 @@
 title: An enjoyable outdoor cycling ride in Liberty Park, Salt Lake City
 author: Amirmasoud
 type: post
-date: 2024-12-03T00:57:26+00:00
+date: 2024-12-02T17:57:26-07:00
 url: /2024/12/02/an-enjoyable-outdoor-cycling-ride-in-liberty-park-salt-lake-city/
 featured_image: /2024/12/Green-White-Minimalistic-Simple-Collage-Daily-Vlog-YouTube-Thumbnail.png
 categories:

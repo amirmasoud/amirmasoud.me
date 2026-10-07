@@ -2,7 +2,7 @@
 title: Salt Lake to Park City via Jeremy Ranch Road
 author: Amirmasoud
 type: post
-date: 2025-06-22T07:00:00+07:00
+date: 2025-06-22T07:00:00-06:00
 url: /2025/06/22/jeremy-ranch
 categories:
   - Video

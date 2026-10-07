@@ -2,7 +2,7 @@
 title: The Pie Pizzeria - Underground / The Pizza Place to Go to In Salt Lake City
 author: Amirmasoud
 Type: Post
-date: 2025-01-03T17:30:00+07:00
+date: 2025-01-03T17:30:00-07:00
 url: /2025/01/03/the-pie-pizzeria-the-pizza-place-to-go-to-in-salt-lake-city/
 featured_image: /2025/01/IMG_0662.jpeg
 categories:

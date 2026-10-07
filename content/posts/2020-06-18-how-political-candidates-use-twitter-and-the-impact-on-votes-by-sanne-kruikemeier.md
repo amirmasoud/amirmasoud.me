@@ -2,7 +2,7 @@
 title: How political candidates use Twitter and the impact on votes by Sanne Kruikemeier
 author: Amirmasoud
 type: post
-date: 2020-06-18T08:23:20+00:00
+date: 2020-06-18T02:23:20-06:00
 url: /2020/06/18/how-political-candidates-use-twitter-and-the-impact-on-votes-by-sanne-kruikemeier/
 featured_image: /wp-content/uploads/2020/06/markus-winkler-bGOzSH6d2hg-unsplash-1200x800.jpg
 categories:

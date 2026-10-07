@@ -2,7 +2,7 @@
 title: Sold My First Bike - Kawasaki Ninja 400 (2019)
 author: Amirmasoud
 type: post
-date: 2025-02-08T08:00:00+07:00
+date: 2025-02-08T08:00:00-07:00
 url: /2025/02/08/kawasaki-ninja-400/
 categories:
   - Story

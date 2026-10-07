@@ -2,7 +2,7 @@
 title: Cactus & Tropical in Salt Lake City
 author: Amirmasoud
 type: post
-date: 2025-02-15T16:00:00+07:00
+date: 2025-02-15T16:00:00-07:00
 url: /2025/02/15/cactus-and-tropicals/
 categories:
   - Story

@@ -2,7 +2,7 @@
 title: Create VSCode extension from scratch to testing, documentation, and publishing
 author: Amirmasoud
 type: post
-date: 2020-10-16T11:47:36+00:00
+date: 2020-10-16T05:47:36-06:00
 url: /2020/10/16/create-vscode-extension-from-scratch-to-testing-documentation-and-publishing/
 featured_image: /wp-content/uploads/2020/09/vscode_wp.jpg
 categories:

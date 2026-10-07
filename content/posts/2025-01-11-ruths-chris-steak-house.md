@@ -2,7 +2,7 @@
 title: Ruth's Chris Steak House in Salt Lake City
 author: Amirmasoud
 Type: Post
-date: 2025-01-11T21:30:00+07:00
+date: 2025-01-11T21:30:00-07:00
 url: /2025/01/11/ruths-chris-steak-house/
 featured_image: /2025/01/IMG_0726.jpeg
 categories:

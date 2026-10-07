@@ -2,7 +2,7 @@
 title: It's snowing!
 author: Amirmasoud
 type: post
-date: 2025-01-04T09:00:00+07:00
+date: 2025-01-04T09:00:00-07:00
 url: /2025/01/04/its-snowing/
 categories:
   - Story

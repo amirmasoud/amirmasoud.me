@@ -2,7 +2,7 @@
 title: Installing Mailcatcher on Linux
 author: Amirmasoud
 type: post
-date: 2020-06-13T06:40:06+00:00
+date: 2020-06-13T00:40:06-06:00
 url: /2020/06/13/installing-mailcatcher-on-linux/
 categories:
   - Learning

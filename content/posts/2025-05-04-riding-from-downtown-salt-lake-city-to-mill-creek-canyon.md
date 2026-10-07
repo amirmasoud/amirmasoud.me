@@ -2,7 +2,7 @@
 title: Riding from Downtown Salt Lake City to Mill Creek Canyon
 author: Amirmasoud
 type: post
-date: 2025-05-04T08:00:00+07:00
+date: 2025-05-04T08:00:00-06:00
 url: /2025/05/04/riding-from-downtown-salt-lake-city-to-mill-creek-canyon
 categories:
   - Video

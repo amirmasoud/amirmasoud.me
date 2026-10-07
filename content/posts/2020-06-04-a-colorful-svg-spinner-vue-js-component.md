@@ -2,7 +2,7 @@
 title: A Colorful SVG Spinner Vue.js Component
 author: Amirmasoud
 type: post
-date: 2020-06-04T09:18:45+00:00
+date: 2020-06-04T03:18:45-06:00
 url: /2020/06/04/a-colorful-svg-spinner-vue-js-component/
 featured_image: /wp-content/uploads/2020/05/spinner.gif
 categories:

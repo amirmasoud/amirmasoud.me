@@ -2,7 +2,7 @@
 title: Arlo / A hidden resturant in Salt Lake City
 author: Amirmasoud
 type: post
-date: 2024-12-08T03:00:00+00:00
+date: 2024-12-07T20:00:00-07:00
 url: /2024/12/07/arlo-a-hidden-resturant-in-salt-lake-city/
 featured_image: /2024/12/IMG_0427.jpeg
 categories:
