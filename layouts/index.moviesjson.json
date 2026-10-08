@@ -1,3 +1,5 @@
+{{- /* Served at /movies.json (see hugo.toml [outputs]); fetched by
+  movies-slider.html to AJAX-load posters past its server-rendered batch. */ -}}
 {{- $movies := slice -}}
 {{- with site.Taxonomies.categories.movies -}}
   {{- $movies = .Pages -}}
@@ -7,6 +9,23 @@
 [
 {{- range $i, $p := $movies -}}
   {{- if $i }},{{ end }}
-  {"title": {{ $p.Title | strings.TrimSpace | jsonify }}, "url": {{ $p.RelPermalink | jsonify }}, "image": {{ ($p.Params.featured_image | relURL) | jsonify }}, "date": {{ ($p.Date | time.Format "Jan 2, 2006") | jsonify }}}
+  {{- $posterPath := $p.Params.featured_image }}
+  {{- $image := $posterPath | relURL }}
+  {{- $image2x := $image }}
+  {{- $ext := path.Ext $posterPath | strings.ToLower }}
+  {{- if in (slice ".jpg" ".jpeg" ".png") $ext }}
+    {{- $poster := resources.Get (printf "static%s" $posterPath) }}
+    {{- if and $poster (eq $poster.MediaType.MainType "image") }}
+      {{- $w1x := 160 }}
+      {{- $w2x := 320 }}
+      {{- $thumb1x := $poster }}
+      {{- $thumb2x := $poster }}
+      {{- if gt $poster.Width $w1x }}{{ $thumb1x = $poster.Resize (printf "%dx q80" $w1x) }}{{ end }}
+      {{- if gt $poster.Width $w2x }}{{ $thumb2x = $poster.Resize (printf "%dx q80" $w2x) }}{{ end }}
+      {{- $image = $thumb1x.RelPermalink }}
+      {{- $image2x = $thumb2x.RelPermalink }}
+    {{- end }}
+  {{- end }}
+  {"title": {{ $p.Title | strings.TrimSpace | jsonify }}, "url": {{ $p.RelPermalink | jsonify }}, "image": {{ $image | jsonify }}, "image2x": {{ $image2x | jsonify }}, "date": {{ ($p.Date | time.Format "Jan 2, 2006") | jsonify }}}
 {{- end -}}
 ]

@@ -48,3 +48,30 @@ username = "Amirmasoud32"
 [module]
   [[module.imports]]
     path = 'github.com/hugomods/images'
+  # Setting any [[module.mounts]] drops Hugo's implicit defaults, so they're
+  # restated below. Last entry re-mounts static/ under assets/ so its images
+  # are resizable via Hugo Pipes without affecting the normal static passthrough.
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "i18n"
+    target = "i18n"
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+  [[module.mounts]]
+    source = "static"
+    target = "assets/static"

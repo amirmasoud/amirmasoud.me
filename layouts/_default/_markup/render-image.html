@@ -1,0 +1,30 @@
+{{- /* Resizes local jpg/jpeg/png for display; the <a href> Goldmark renders around
+  it (house `[![alt](img)](img)` pattern) is untouched, so it still links to the
+  original full file. Everything else (gif, svg, external) passes through as-is. */ -}}
+{{- $dest := .Destination -}}
+{{- $alt := .Text -}}
+{{- $isLocal := and (strings.HasPrefix $dest "/") (not (strings.HasPrefix $dest "//")) -}}
+{{- $ext := path.Ext $dest | strings.ToLower -}}
+{{- $processable := and $isLocal (in (slice ".jpg" ".jpeg" ".png") $ext) -}}
+
+{{- $img := "" -}}
+{{- if $processable -}}
+  {{- $img = resources.Get (printf "static%s" $dest) -}}
+{{- end -}}
+
+{{- if and $img (eq $img.MediaType.MainType "image") -}}
+  {{- $target := 900 -}}
+  {{- if gt $img.Width $target -}}
+    {{- $small := $img.Resize (printf "%dx q75" $target) -}}
+    {{- $target2x := mul $target 2 -}}
+    {{- $large := $small -}}
+    {{- if ge $img.Width $target2x -}}
+      {{- $large = $img.Resize (printf "%dx q75" $target2x) -}}
+    {{- end -}}
+<img src="{{ $small.RelPermalink }}" srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w" sizes="(max-width: {{ $target }}px) 100vw, {{ $target }}px" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
+  {{- else -}}
+<img src="{{ $dest }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
+  {{- end -}}
+{{- else -}}
+<img src="{{ $dest }}" alt="{{ $alt }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy">
+{{- end -}}

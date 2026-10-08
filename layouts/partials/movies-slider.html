@@ -81,8 +81,25 @@
     {{- range first $initialCount $movies }}
     {{- $title := .Title | strings.TrimSpace }}
     {{- $date := .Date | time.Format "Jan 2, 2006" }}
+    {{- $posterPath := .Params.featured_image }}
+    {{- $src := $posterPath | relURL }}
+    {{- $srcset := "" }}
+    {{- $ext := path.Ext $posterPath | strings.ToLower }}
+    {{- if in (slice ".jpg" ".jpeg" ".png") $ext }}
+      {{- $poster := resources.Get (printf "static%s" $posterPath) }}
+      {{- if and $poster (eq $poster.MediaType.MainType "image") }}
+        {{- $w1x := 160 }}
+        {{- $w2x := 320 }}
+        {{- $thumb1x := $poster }}
+        {{- $thumb2x := $poster }}
+        {{- if gt $poster.Width $w1x }}{{ $thumb1x = $poster.Resize (printf "%dx q80" $w1x) }}{{ end }}
+        {{- if gt $poster.Width $w2x }}{{ $thumb2x = $poster.Resize (printf "%dx q80" $w2x) }}{{ end }}
+        {{- $src = $thumb1x.RelPermalink }}
+        {{- $srcset = printf "%s 1x, %s 2x" $thumb1x.RelPermalink $thumb2x.RelPermalink }}
+      {{- end }}
+    {{- end }}
     <a class="movies-slider-item" href="{{ .RelPermalink }}" title="{{ $title }} ({{ $date }})">
-      <img src="{{ .Params.featured_image | relURL }}" alt="{{ $title }}" loading="lazy">
+      <img src="{{ $src }}"{{ with $srcset }} srcset="{{ . }}"{{ end }} alt="{{ $title }}" loading="lazy">
       <div class="movies-slider-caption">{{ $title }}</div>
       <div class="movies-slider-date">{{ $date }}</div>
     </a>
@@ -122,6 +139,9 @@
         img.loading = 'lazy';
         img.alt = m.title;
         img.src = m.image;
+        if (m.image2x && m.image2x !== m.image) {
+          img.srcset = m.image + ' 1x, ' + m.image2x + ' 2x';
+        }
         a.appendChild(img);
         var caption = document.createElement('div');
         caption.className = 'movies-slider-caption';
