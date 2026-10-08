@@ -1,0 +1,12 @@
+{{- $movies := slice -}}
+{{- with site.Taxonomies.categories.movies -}}
+  {{- $movies = .Pages -}}
+{{- end -}}
+{{- $movies = where $movies "Params.featured_image" "ne" nil -}}
+{{- $movies = $movies.ByDate.Reverse -}}
+[
+{{- range $i, $p := $movies -}}
+  {{- if $i }},{{ end }}
+  {"title": {{ $p.Title | strings.TrimSpace | jsonify }}, "url": {{ $p.RelPermalink | jsonify }}, "image": {{ ($p.Params.featured_image | relURL) | jsonify }}, "date": {{ ($p.Date | time.Format "Jan 2, 2006") | jsonify }}}
+{{- end -}}
+]

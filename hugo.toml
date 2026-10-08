@@ -9,6 +9,15 @@ changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
+[outputFormats.MoviesJSON]
+mediaType = "application/json"
+baseName = "movies"
+isPlainText = true
+notAlternative = true
+
+[outputs]
+home = ["HTML", "RSS", "MoviesJSON"]
+
 [params]
 featured_image_class = "contain bg-top bg-black"
 recent_posts_number = 10

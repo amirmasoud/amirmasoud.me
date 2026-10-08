@@ -1,0 +1,63 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{ .Content }}
+    </article>
+    {{ $mainSections := .Site.Params.mainSections | default (slice "post") }}
+    {{ $show_recent_posts := site.Params.ananke.show_recent_posts }}
+
+    {{range ($mainSections)}}
+    {{ $section_name := . }}
+    {{ $section := where $.Site.RegularPages "Section" "in" $section_name }}
+    {{ $section_no_movies := slice }}
+    {{ range $section }}
+      {{ $isMovie := false }}
+      {{ range .Params.categories }}
+        {{ if eq . "Movies" }}{{ $isMovie = true }}{{ end }}
+      {{ end }}
+      {{ if not $isMovie }}
+        {{ $section_no_movies = $section_no_movies | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $section = $section_no_movies }}
+    {{ $section_count := len $section }}
+    {{ if and ($show_recent_posts) (ge $section_count 1) }}
+      <div class="pa3 pa4-ns w-100 w-70-ns center">
+        {{ with $.Site.GetPage "section" $section_name }}
+            <h1 class="flex-none">
+              {{ $.Param "recent_copy" | default (i18n "recentTitle" .) }}
+            </h1>
+          {{ end }}
+
+        {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+
+        <section class="w-100 mw8">
+          {{ range (first $n_posts $section) }}
+            <div class="relative w-100 mb4">
+              {{ .Render "summary-with-image" }}
+            </div>
+          {{ end }}
+        </section>
+
+        {{ if ge $section_count (add $n_posts 1) }}
+        <section class="w-100">
+          <h1 class="f3">{{ i18n "more" }}</h1>
+          {{ range (first 4 (after $n_posts $section))  }}
+            <h2 class="f5 fw4 mb4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "ml3" "mr3" }}">
+              <a href="{{ .RelPermalink }}" class="link black dim">
+                {{ .Title }}
+              </a>
+            </h2>
+          {{ end }}
+
+          {{ with $.Site.GetPage "section" $section_name }}
+            <a href="{{ .RelPermalink }}" class="link db f6 pa2 br3 bg-mid-gray white dim w4 tc">{{ i18n "allTitle" . }}</a>
+          {{ end }}
+          </section>
+        {{ end }}
+
+        </div>
+    {{ end }}
+  {{ end }}
+
+  {{ partial "movies-slider.html" . }}
+{{end}}
